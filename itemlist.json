@@ -1321,8 +1321,62 @@
 		"defname": "BionicWorkbench"
 	},
 	{
+		"abr": "bioship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkBottom"
+	},
+	{
+		"abr": "bioship,bottomalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkBottomPointy"
+	},
+	{
+		"abr": "bioship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkSideLeft"
+	},
+	{
+		"abr": "bioship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkSideRight"
+	},
+	{
+		"abr": "bioship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTop"
+	},
+	{
+		"abr": "bioship,topleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTopLeft"
+	},
+	{
+		"abr": "bioship,topright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkTopRight"
+	},
+	{
+		"abr": "bioship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkWingLeft"
+	},
+	{
+		"abr": "bioship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_PurpleShipChunkWingRight"
+	},
+	{
 		"abr": "biosolids",
-		"price": 0,
+		"price": 101,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -4705,6 +4759,30 @@
 		"defname": "GR_HugeBearCatRug"
 	},
 	{
+		"abr": "hugecapturedasteroid,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidBottom"
+	},
+	{
+		"abr": "hugecapturedasteroid,left",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidLeft"
+	},
+	{
+		"abr": "hugecapturedasteroid,right",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidRight"
+	},
+	{
+		"abr": "hugecapturedasteroid,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_HugeAsteroidTop"
+	},
+	{
 		"abr": "hugerhinohorn",
 		"price": 167,
 		"category": "Raw resources",
@@ -5105,6 +5183,114 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "Immunoenhancer"
+	},
+	{
+		"abr": "imperialescortship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkBottom"
+	},
+	{
+		"abr": "imperialescortship,leftside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSideLeft"
+	},
+	{
+		"abr": "imperialescortship,rightside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSideRight"
+	},
+	{
+		"abr": "imperialescortship,roundcore",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRound"
+	},
+	{
+		"abr": "imperialescortship,roundsideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRoundSideLeft"
+	},
+	{
+		"abr": "imperialescortship,roundsideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkRoundSideRight"
+	},
+	{
+		"abr": "imperialescortship,smallleftside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallSideLeft"
+	},
+	{
+		"abr": "imperialescortship,smallrightside",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallSideRight"
+	},
+	{
+		"abr": "imperialescortship,smallwingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallWingLeft"
+	},
+	{
+		"abr": "imperialescortship,smallwingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkSmallWingRight"
+	},
+	{
+		"abr": "imperialescortship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTop"
+	},
+	{
+		"abr": "imperialescortship,topalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAlternate"
+	},
+	{
+		"abr": "imperialescortship,toplarge",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopPointy"
+	},
+	{
+		"abr": "imperialescortship,topnarrowantennas",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAntennasNarrow"
+	},
+	{
+		"abr": "imperialescortship,topwithantennas",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkTopAntennas"
+	},
+	{
+		"abr": "imperialescortship,widebottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkBottomAlternate"
+	},
+	{
+		"abr": "imperialescortship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkWingLeft"
+	},
+	{
+		"abr": "imperialescortship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_BlueShipChunkWingRight"
 	},
 	{
 		"abr": "incendiaries",
@@ -6367,6 +6553,60 @@
 		"defname": "GR_MechaMilk"
 	},
 	{
+		"abr": "mechanoidship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipBottom"
+	},
+	{
+		"abr": "mechanoidship,bottomalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipBottomLong"
+	},
+	{
+		"abr": "mechanoidship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidSideLeft"
+	},
+	{
+		"abr": "mechanoidship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidSideRight"
+	},
+	{
+		"abr": "mechanoidship,tankleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidTankLeft"
+	},
+	{
+		"abr": "mechanoidship,tankright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidTankRight"
+	},
+	{
+		"abr": "mechanoidship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidShipTop"
+	},
+	{
+		"abr": "mechanoidship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidWingLeft"
+	},
+	{
+		"abr": "mechanoidship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_MechanoidWingRight"
+	},
+	{
 		"abr": "mechanoidwool",
 		"price": 25,
 		"category": "Textiles",
@@ -6443,6 +6683,30 @@
 		"price": 475,
 		"category": "Furniture",
 		"defname": "Throne"
+	},
+	{
+		"abr": "mediumcapturedasteroid,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigBottom"
+	},
+	{
+		"abr": "mediumcapturedasteroid,left",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigSide"
+	},
+	{
+		"abr": "mediumcapturedasteroid,right",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigReactors"
+	},
+	{
+		"abr": "mediumcapturedasteroid,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkBigTop"
 	},
 	{
 		"abr": "mediumdoormat",
@@ -8053,6 +8317,60 @@
 		"defname": "PineappleSoda"
 	},
 	{
+		"abr": "pirateship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkBottom"
+	},
+	{
+		"abr": "pirateship,largewingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingAlternateLeft"
+	},
+	{
+		"abr": "pirateship,largewingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingAlternateRight"
+	},
+	{
+		"abr": "pirateship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkSideLeft"
+	},
+	{
+		"abr": "pirateship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkSideRight"
+	},
+	{
+		"abr": "pirateship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkTop"
+	},
+	{
+		"abr": "pirateship,toplarge",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChunkTopPointy"
+	},
+	{
+		"abr": "pirateship,wingleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingLeft"
+	},
+	{
+		"abr": "pirateship,wingright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_GreyShipChukWingRight"
+	},
+	{
 		"abr": "pizza",
 		"price": 42,
 		"category": "Lavish Meals",
@@ -9505,6 +9823,30 @@
 		"defname": "GR_BoarTuskStatuette"
 	},
 	{
+		"abr": "smallcapturedasteroid,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkDown"
+	},
+	{
+		"abr": "smallcapturedasteroid,left",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkLeft"
+	},
+	{
+		"abr": "smallcapturedasteroid,right",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkReactor"
+	},
+	{
+		"abr": "smallcapturedasteroid,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_AsteroidChunkTop"
+	},
+	{
 		"abr": "smallceilingsunlamp",
 		"price": 81,
 		"category": "Furniture",
@@ -10501,6 +10843,48 @@
 		"defname": "VWE_ToxicGrenade"
 	},
 	{
+		"abr": "tradeship,bottom",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipBottom"
+	},
+	{
+		"abr": "tradeship,bottomalternate",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipBottomAlternate"
+	},
+	{
+		"abr": "tradeship,sideleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipLeft"
+	},
+	{
+		"abr": "tradeship,sideright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipRight"
+	},
+	{
+		"abr": "tradeship,tanksleft",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipTanksLeft"
+	},
+	{
+		"abr": "tradeship,tanksright",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipTanksRight"
+	},
+	{
+		"abr": "tradeship,top",
+		"price": 2500,
+		"category": "Ship parts",
+		"defname": "AS_OrangeShipTop"
+	},
+	{
 		"abr": "tribalheaddress",
 		"price": 203,
 		"category": "Headgear",
@@ -10675,6 +11059,60 @@
 		"defname": "Lighting_MURWallLightBlueVII"
 	},
 	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellowVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagentaVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyanVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRoseVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightVioletVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzureVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreenVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuseVII"
+	},
+	{
+		"abr": "unuseddonottranslate",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrangeVII"
+	},
+	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
@@ -10721,6 +11159,18 @@
 		"price": 315,
 		"category": "SMG and PDW",
 		"defname": "RNGun_UziSD_PDW"
+	},
+	{
+		"abr": "vanometricfoodprocessor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "AS_VanometricFoodProcessor"
+	},
+	{
+		"abr": "vanometricheatsink",
+		"price": 1483,
+		"category": "Misc",
+		"defname": "AS_ArchotechHeatsink"
 	},
 	{
 		"abr": "vanometricpowercell",
@@ -10939,10 +11389,28 @@
 		"defname": "Lighting_MURWallLight"
 	},
 	{
+		"abr": "walllight(azure)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightAzure"
+	},
+	{
 		"abr": "walllight(blue)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlue"
+	},
+	{
+		"abr": "walllight(chartreuse)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightChartreuse"
+	},
+	{
+		"abr": "walllight(cyan)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightCyan"
 	},
 	{
 		"abr": "walllight(green)",
@@ -10951,10 +11419,46 @@
 		"defname": "Lighting_MURWallLightGreen"
 	},
 	{
+		"abr": "walllight(magenta)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightMagenta"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightOrange"
+	},
+	{
 		"abr": "walllight(red)",
 		"price": 16,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRed"
+	},
+	{
+		"abr": "walllight(rose)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightRose"
+	},
+	{
+		"abr": "walllight(springgreen)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightSpringGreen"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightViolet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "Lighting_MURWallLightYellow"
 	},
 	{
 		"abr": "wallsinglerefrigerator",
@@ -11461,6 +11965,12 @@
 		"defname": "MeleeWeapon_Zeushammer"
 	},
 	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	},
+	{
 		"abr": "zubat",
 		"price": 3333,
 		"category": "Animal",
@@ -11471,7 +11981,13 @@
 		"price": 9,
 		"category": "Leathers",
 		"defname": "Leather_Zubat"
+	},
+	{
+		"abr": "zubatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Zubat"
 	}
 	],
-	"total": 1913
+	"total": 1998
 }
