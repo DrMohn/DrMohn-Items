@@ -1589,6 +1589,12 @@
 		"price": -10,
 		"category": "Animal",
 		"defname": "Megaspider"
+	},
+	{
+		"abr": "steel",
+		"price": 3,
+		"category": "RawResources",
+		"defname": "Steel"
 	}
 	],
 	"total": 1133
